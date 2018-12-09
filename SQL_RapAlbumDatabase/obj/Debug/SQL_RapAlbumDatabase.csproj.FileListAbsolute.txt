@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\bin\Debug\SQL_RapAlbumDatabase.exe.config
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\bin\Debug\SQL_RapAlbumDatabase.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\bin\Debug\SQL_RapAlbumDatabase.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.exe
+C:\Users\Owner\Documents\Visual Studio 2017\Projects\SQL_RapAlbumDatabase\SQL_RapAlbumDatabase\obj\Debug\SQL_RapAlbumDatabase.pdb
